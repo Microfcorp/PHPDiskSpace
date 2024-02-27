@@ -1,3 +1,4 @@
+<?php include_once("/var/www/html/site/secur.php"); ?>
 <?
 $mac = $_GET['mac'];
 $type = $_GET['type'];
